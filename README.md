@@ -1,13 +1,12 @@
 # lps2pivot 🥷🏼
 
-📌 lps2pivot is a simple script to find open ports on localhost and external hosts.
-Created in python, this script aims my learning in python for pentesting.
-<br>
+<h4>📌 lps2pivot is a simple script to find open ports on localhost and external hosts.
+Created in python, this script aims my learning in python for pentesting.</h4>
 
-<h4>💥 Scanning external host:</h4>
+<h3>💥 Scanning external host:</h3>
 <img src="https://imgur.com/b4Q0PUK.png">
 
-<h4>🔥 Scanning local host:</h4>
+<h3>🔥 Scanning local host:</h3>
 <img src="https://imgur.com/NyHigIO.png">
 <br>
 
