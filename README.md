@@ -5,11 +5,9 @@ Created in python, this script aims my learning in python for pentesting.
 <br>
 
 <h4>💥 Scanning external host:</h4>
-<br>
 <img src="https://imgur.com/b4Q0PUK.png">
 
 <h4>🔥 Scanning local host:</h4>
-<br>
 <img src="https://imgur.com/NyHigIO.png">
 <br>
 
