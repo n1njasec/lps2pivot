@@ -8,9 +8,8 @@ Created in python, this script aims my learning in python for pentesting.</h4>
 
 <h3>🔥 Scanning local host:</h3>
 <img src="https://imgur.com/NyHigIO.png">
-<br>
 
-📌 The idea of ​​this script is just to facilitate the search for ports 
+<h4>📌 The idea of ​​this script is just to facilitate the search for ports 
 on the local network to apply pivoting techniques. Given that, I took the 
 opportunity to create another simple function to scan external networks! 
-Nothing much hahaha, just for fun and enjoyment of what I like to do with python!
+Nothing much hahaha, just for fun and enjoyment of what I like to do with python!</h4>
