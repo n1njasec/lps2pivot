@@ -4,11 +4,11 @@
 Created in python, this script aims my learning in python for pentesting.
 <br>
 
-💥 Scanning external host:
+<h4>💥 Scanning external host:</h4>
 <br>
 <img src="https://imgur.com/b4Q0PUK.png">
 
-🔥 Scanning local host:
+<h4>🔥 Scanning local host:</h4>
 <br>
 <img src="https://imgur.com/NyHigIO.png">
 <br>
