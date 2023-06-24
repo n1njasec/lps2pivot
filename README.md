@@ -13,3 +13,5 @@ Created in python, this script aims my learning in python for pentesting.</h4>
 on the local network to apply pivoting techniques. Given that, I took the 
 opportunity to create another simple function to scan external networks! 
 Nothing much hahaha, just for fun and enjoyment of what I like to do with python!</h4>
+
+lps = local port scan hahaah :D
